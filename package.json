@@ -1,5 +1,5 @@
 {
-  "name": "angular-2-hello-world",
+  "name": "angular-2-file-upload",
   "version": "0.1.0",
   "description": "An angular 2 hello world example",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agconti/angular-2-hello-world.git"
+    "url": "git+https://github.com/anandsurya1590/angular2.git"
   },
   "keywords": [
     "Angular",
@@ -16,12 +16,12 @@
     "hello",
     "world"
   ],
-  "author": "agconti < Andrew Conti >",
+  "author": "Anand Suryavanshi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/agconti/angular-2-hello-world/issues"
   },
-  "homepage": "https://github.com/agconti/angular-2-hello-world#readme",
+  "homepage": "https://github.com/anandsurya1590/angular2#readme",
   "devDependencies": {
     "babel": "^5.8.23",
     "babel-runtime": "^5.8.20",
